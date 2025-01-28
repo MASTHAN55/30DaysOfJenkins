@@ -94,7 +94,7 @@ Want to follow along or explore the projects? Here’s how:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MDinesh28/30DaysOfJenkins.git
+   git clone https://github.com/MASTHAN55/30DaysOfJenkins.git
    ```
 2. Navigate through the folders to find detailed documentation and code for each day.
 
