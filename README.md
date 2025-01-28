@@ -37,26 +37,3 @@ Day 30: “Can Jenkins and GitOps coexist? How?”
 🚀 How to Use This Repo
 Clone the repository:
 git clone https://github.com/MDinesh28/30DaysOfJenkins.git  
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-HTML
-80.0%
- 
-Shell
-20.0%
-Footer
